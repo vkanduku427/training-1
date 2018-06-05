@@ -1,1 +1,2 @@
-This is my camera feature. Open Camera
+This is my camera feature. Open Camera.
+Added panorama to camera
